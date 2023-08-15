@@ -7,6 +7,7 @@
         transform: translate(-50%, 0%);
         @include decorNumber;
     }
+    overflow: hidden;
 }
 
 .video__link {

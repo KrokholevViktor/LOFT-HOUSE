@@ -6,6 +6,7 @@
         transform: translate(50%, 0%);
         @include decorNumber;
     }
+    overflow: hidden;
 }
 
 .apartments__title {
